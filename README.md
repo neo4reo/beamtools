@@ -25,13 +25,13 @@ This tool does not work with the old Bluetooth toothbrush. That toothbrush was B
 
 #### Old toothbrush
 
-![](http://www.foerderland.de/uploads/pics/brush-l_8161.jpg =300)
+![](http://www.foerderland.de/uploads/pics/brush-l_8161.jpg =300x)
 
 This is the **old** Bluetooth toothbrush.
 
 #### Supported version
 
-![](https://www.bbva.com/en/data/8663112016/beam-toothbrush-1920x0-c-f.jpg =300)
+![](https://www.bbva.com/en/data/8663112016/beam-toothbrush-1920x0-c-f.jpg =300x)
 
 Those are the toothbrush this tool works with.
 
