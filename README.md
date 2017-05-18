@@ -130,8 +130,6 @@ You can also do this while the toothbrush is on.
 $ sudo python talk2brush.py --help
 ```
 
-### Screenshot
-
 
 ### Troubleshooting
 
