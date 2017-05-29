@@ -1,5 +1,8 @@
 # Fake smart toothbrush
 
+Simulates a Beam Dental toothbrush with a BLE USB dongle.
+For test - use with caution, be responsible.
+
 ## Run
 
 Pre-requisites:
@@ -34,5 +37,7 @@ Fake Toothbrush BLE device
 [+] setServices: success
 ...
 ```
+
+where JSSOURCES is the absolute path to the .js files in this repository.
 
 Note: bluetooth service must be **stopped** on both container and host.
