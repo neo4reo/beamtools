@@ -41,3 +41,8 @@ Fake Toothbrush BLE device
 where JSSOURCES is the absolute path to the .js files in this repository.
 
 Note: bluetooth service must be **stopped** on both container and host.
+
+My JavaScript files assume the BLE dongle is on hci0. If not, the following is required.
+```
+sudo BLENO_HCI_DEVICE_ID=1 node main.js
+```
